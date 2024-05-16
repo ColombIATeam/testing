@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'playgroundprep'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_849D7EFCFA514F388E5D5471C08A391B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BE813AFB3BA4F3E829CA64960E799D3 }}
